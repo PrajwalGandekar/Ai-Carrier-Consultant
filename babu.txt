@@ -1,2 +1,6 @@
 prajwal murkh mulga ahe khup
+<<<<<<< HEAD
 gdssdbnc 
+=======
+manasi is good girl
+>>>>>>> 6f7f4418819eb3cedf28c12c0d997f814ef52a90
