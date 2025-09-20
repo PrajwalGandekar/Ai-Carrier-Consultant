@@ -1,6 +1,6 @@
 # AI Career Consultant
 
-This repository contains two independent projects::
+This repository contains two independent projects:
 
 ## 1. Resume Matcher (Flask App)
 
