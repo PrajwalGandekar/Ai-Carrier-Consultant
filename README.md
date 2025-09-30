@@ -3,7 +3,7 @@
 This repository contains two independent projects:
 
 ## 1. Resume Matcher (Flask App)
-
+>>>>>
 A full-featured web application for resume parsing, ATS scoring, and job matching.
 
 ### Features
